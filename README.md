@@ -1,7 +1,8 @@
 This is a sports analytics project in the field of cricket. Most existing sports analytics done in the field of cricket is based on match-to-match data (macro level), however, this project aims at micro level analysis that is player by player analysis, to uncover strengths/weakness for a given player
+
 In this project, we have considered 2 international batsmen:
-	1.	Rohit Sharma (India)
-	2.	David Warner (Australia)
+1.	Rohit Sharma (India)
+2.	David Warner (Australia)
 
 A novel attempt to devise a model that would predict various attributes of a player’s game based on data collected from each ball (play by play) across multiple games and opponents for 3 years.
 
