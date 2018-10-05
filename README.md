@@ -19,13 +19,17 @@ Following is a high-level end to end approach:
    
  2. Exploratory Data Analysis
     • Used Matplotlib and Seaborn libraries.
+    
     • Discovered strengths and weaknesses of a player, few were obvious insights, and few weren’t.  
     
  3. Machine Learning Models
     • Employed Decision tree and Random Forest using Scikit learn.
+    
     • Tuned hyper parameters and evaluated the performance.
     
 Following things are attached in the folder:
-    • The final dataset with all the attributes and new calculated attributes for both the players
-    • Exploratory data analysis uncovering few obvious and few not so obvious insights for each player
-    • Models for each dependent variable, for each player
+    • The final dataset with all the attributes and new calculated attributes for both the players.
+    
+    • Exploratory data analysis uncovering few obvious and few not so obvious insights for each player.
+    
+    • Models for each dependent variable, for each player.
