@@ -10,8 +10,11 @@ A novel attempt to devise a model that would predict various attributes of a pla
 Following is a high-level end to end approach:
 1. Data Collection:
    •  Wrangled data from cricbuzz.com service to fetch running commentary in JSON format for all One-day international matches played by each player from the year 2016.
+   
    •  Approximate was able to fetch data for 50 matches.
+  
    •  Picked different measures to create the dataset.
+  
    •  Feature engineered new measures.
    
  2. Exploratory Data Analysis
